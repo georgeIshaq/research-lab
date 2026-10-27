@@ -1,0 +1,9 @@
+# Pinned so a rebuild gets the same MCP SDK the tests ran against.
+mcp==2.3.0
+httpx==0.28.1
+paramiko==5.1.0
+google-cloud-storage==3.17.1
+google-auth==2.62.0
+requests==2.34.2
+PyJWT==2.15.1
+uvicorn==0.54.0

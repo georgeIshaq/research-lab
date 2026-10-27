@@ -1,0 +1,6 @@
+# Only the Dockerfile, requirements and the package are needed to build.
+tests/
+**/__pycache__/
+.pytest_cache/
+*.md
+lab_key*
